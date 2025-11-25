@@ -29,75 +29,84 @@ AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 I love building products, experimenting with new technologies, and creating things that make life easier.  
 When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 
-## 🛠️ Skills and Tools
-
-<div align="center">
-
 <style>
 .tech-icons img {
   margin: 10px;
+  height: 45px;
   transition: transform 0.2s ease-in-out;
 }
 .tech-icons img:hover {
   transform: scale(1.15);
 }
+.section-title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 25px;
+}
 </style>
 
-### 🔤 Languages
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/>
+## 🧰 Skills and Tools
+
+---
+
+### <div class="section-title">🎨 Languages</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" />
 </div>
 
 ---
 
-### 🎨 Frontend
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="50"/>
+### <div class="section-title">🖥️ Frontend</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/react/61DAFB" />
+  <img src="https://cdn.simpleicons.org/angular/DD0031" />
+  <img src="https://cdn.simpleicons.org/vue.js/4FC08D" />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" />
 </div>
 
 ---
 
-### ⚙ Backend
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="50"/>
+### <div class="section-title">⚙️ Backend</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" />
+  <img src="https://cdn.simpleicons.org/express/000000" />
+  <img src="https://cdn.simpleicons.org/django/092E20" />
 </div>
 
 ---
 
-### 🗄 Databases
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="50"/>
+### <div class="section-title">🗄️ Databases</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" />
+  <img src="https://cdn.simpleicons.org/redis/DC382D" />
 </div>
 
 ---
 
-### ☁ Cloud & DevOps
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
+### <div class="section-title">☁️ Cloud & DevOps</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" />
+  <img src="https://cdn.simpleicons.org/azure/0078D4" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" />
+  <img src="https://cdn.simpleicons.org/git/F05032" />
+  <img src="https://cdn.simpleicons.org/github/181717" />
 </div>
 
 ---
 
-### 🎨 UI & Other Tools
-<div class="tech-icons">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
+### <div class="section-title">🧩 UI & Other Tools</div>
+<div align="center" class="tech-icons">
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" />
+  <img src="https://cdn.simpleicons.org/linux/FCC624" />
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" />
 </div>
 
-</div>
+---
