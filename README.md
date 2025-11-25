@@ -35,3 +35,9 @@ When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,py,html,css,react,angular,vue,nextjs,nodejs,express,django,postgresql,mongodb,redis,docker,kubernetes,azure,git,figma,linux" />
 </div>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alhiky-es&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</div>
