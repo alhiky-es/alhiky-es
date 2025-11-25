@@ -22,12 +22,7 @@ AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 - **E mail** → aescalante93526@gmail.com  
 - **LinkedIn** → https://www.linkedin.com/in/yourprofile  
 - **Portfolio** → https://yourportfolio.com  
-
-## 🧪 Some of my work
-
-- **Project One** – link here  
-- **Project Two** – link here  
-- **Project Three** – link here  
+  
 
 ## ⭐ About Me
 
