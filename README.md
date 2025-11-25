@@ -1,39 +1,35 @@
-### Hi, I'm Alberto 👋  
-Nice to meet you!
+# Hi, I'm Alberto 👋  
 
-I'm a Software Engineer passionate about building useful, scalable, and clean applications.  
+I'm a Software Engineer focused on building useful, scalable, and clean applications.  
 I enjoy working with modern tech, learning new tools, and solving real problems that help people.
 
----
+## 🚀 My main skills
 
-### 🚀 My skills
+### 🧩 Languages  
+JavaScript, Python, TypeScript, HTML, CSS
 
-**Languages** → JavaScript, Python, TypeScript, HTML, CSS
-**Frontend** → React, Angular, Vue, Next.js, TailwindCSS  	
-**Backend** → Node.js, Express, Django
-**Tools & Platforms** → AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
+### 🖥️ Frontend  
+React, Angular, Vue, Next.js, TailwindCSS  
 
----
+### ⚙️ Backend  
+Node.js, Express, Django  
 
-### 📫 You can reach me at
+### 🛠️ Tools & Platforms  
+AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum  
 
-📧 **E-mail** → aescalante93526@gmail.com  
-🔗 **LinkedIn** → https://www.linkedin.com/in/yourprofile  
-🌐 **Portfolio** → https://yourportfolio.com  
+## 📬 You can reach me at
 
----
+- **E mail** → aescalante93526@gmail.com  
+- **LinkedIn** → https://www.linkedin.com/in/yourprofile  
+- **Portfolio** → https://yourportfolio.com  
 
-### 🛠 Some of my work
+## 🧪 Some of my work
 
-- 🌎 **Project One** → link here  
-- ⚙️ **Project Two** → link here  
-- 📱 **Project Three** → link here  
+- **Project One** – link here  
+- **Project Two** – link here  
+- **Project Three** – link here  
 
----
+## ⭐ About Me
 
-### ⭐ About Me  
 I love building products, experimenting with new technologies, and creating things that make life easier.  
 When I’m not coding, I enjoy music, cooking, and exploring new ideas.
-
----
-
