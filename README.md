@@ -20,8 +20,7 @@ AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 ## 📬 You can reach me at
 
 - **E mail** → aescalante93526@gmail.com  
-- **LinkedIn** → https://www.linkedin.com/in/yourprofile  
-- **Portfolio** → https://yourportfolio.com  
+- **LinkedIn** → https://www.linkedin.com/in/alberto-escalante-397b07397/    
   
 
 ## ⭐ About Me
