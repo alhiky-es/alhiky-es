@@ -8,26 +8,18 @@ I enjoy working with modern tech, learning new tools, and solving real problems 
 
 ### 🚀 My skills
 
-**Languages** → JavaScript, TypeScript, Python, Java, C Sharp, HTML, CSS  
+**Languages** → JavaScript, Python, TypeScript, HTML, CSS
 **Frontend** → React, Vue, Angular, Next.js, TailwindCSS  
-**Backend** → Node.js, Django, Spring Boot, .NET  
+**Backend** → Node.js, Express, Django 
 **Tools & Platforms** → AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 
 ---
 
 ### 📫 You can reach me at
 
-📧 **E-mail** → your.email@example.com  
+📧 **E-mail** → aescalante93526@gmail.com  
 🔗 **LinkedIn** → https://www.linkedin.com/in/yourprofile  
 🌐 **Portfolio** → https://yourportfolio.com  
-
----
-
-### 🛠 Some of my work
-
-- 🌎 **Project One** → link here  
-- ⚙️ **Project Two** → link here  
-- 📱 **Project Three** → link here  
 
 ---
 
