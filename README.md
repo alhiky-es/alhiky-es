@@ -1,45 +1,39 @@
-# 👋 Hey, I'm Alberto Escalante!
+### Hi, I'm Alberto 👋  
+Nice to meet you!
 
-💻 **Senior Full Stack Developer | Cloud Architect | Tech Explorer**
-
-🚀 Building modern apps with **C#, JavaScript, Python, and Vue.js**  
-☁️ Working with **AWS Cloud**, **Kubernetes**, and **Terraform**
-
----
-
-### 🧠 About Me
-I'm a developer who loves turning ideas into working systems.  
-Started from small web projects, now crafting scalable enterprise apps.  
-When I’m not coding, I’m probably making sushi 🍣 or jamming on guitar 🎸.
+I'm a Software Engineer passionate about building useful, scalable, and clean applications.  
+I enjoy working with modern tech, learning new tools, and solving real problems that help people.
 
 ---
 
-### 🧩 Tech Stack
-**Languages:** C#, JavaScript, Python, SQL, TypeScript  
-**Frameworks:** .NET Core, Django, Vue, React, Node.js  
-**Cloud:** AWS, Azure, GCP  
-**Tools:** Docker, Kubernetes, Terraform, GitHub Actions  
+### 🚀 My skills
+
+**Languages** → JavaScript, TypeScript, Python, Java, C Sharp, HTML, CSS  
+**Frontend** → React, Vue, Angular, Next.js, TailwindCSS  
+**Backend** → Node.js, Django, Spring Boot, .NET  
+**Tools & Platforms** → AWS, Azure, Git, GitHub, Docker, Kubernetes, CI CD, Figma, Scrum
 
 ---
 
-### 🌱 What I’m Working On
-- 🚧 `beale-oci` – Clojure library integrating Oracle Cloud Streaming  
-- ☁️ `vinyl` – Scalable messaging platform for OCI  
-- 🧰 `lynx` – Livebox telephony integration experiment  
+### 📫 You can reach me at
+
+📧 **E-mail** → your.email@example.com  
+🔗 **LinkedIn** → https://www.linkedin.com/in/yourprofile  
+🌐 **Portfolio** → https://yourportfolio.com  
 
 ---
 
-### 🧭 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/albertoescalante)
-[![GitHub](https://img.shields.io/badge/-GitHub-gray?logo=github&style=flat)](https://github.com/alhiky-es)
-[![Email](https://img.shields.io/badge/-Email-white?logo=gmail&style=flat)](mailto:alhiky.es526@gmail.com)
+### 🛠 Some of my work
+
+- 🌎 **Project One** → link here  
+- ⚙️ **Project Two** → link here  
+- 📱 **Project Three** → link here  
 
 ---
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=alhiky-es&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alhiky-es&layout=compact&theme=radical)
+### ⭐ About Me  
+I love building products, experimenting with new technologies, and creating things that make life easier.  
+When I’m not coding, I enjoy music, cooking, and exploring new ideas.
 
 ---
 
-> “Code is art that runs.” – You, probably 😎
